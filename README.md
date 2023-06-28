@@ -1,4 +1,4 @@
-# ChatGPT-like Clone
+# Streamlit Chat Interface
 
 This repository contains a simple ChatGPT-like clone application built with Streamlit and the OpenAI API. The application allows users to have interactive conversations with a language model powered by OpenAI's GPT-3.5-turbo model.
 
