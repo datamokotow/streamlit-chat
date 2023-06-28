@@ -1,5 +1,3 @@
-Certainly! Here's an example of a short GitHub README page:
-
 ```markdown
 # ChatGPT-like Clone
 
